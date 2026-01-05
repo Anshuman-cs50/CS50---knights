@@ -110,5 +110,5 @@ This project is open source and available for educational purposes.
 
 ## Author
 
-Created as part of a logic and AI course project.
-
+**Anshuman Singh**
+- GitHub: [@Anshuman-cs50](https://github.com/Anshuman-cs50)
